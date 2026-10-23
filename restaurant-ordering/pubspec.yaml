@@ -1,0 +1,18 @@
+name: northern_fork
+description: Spec demo — restaurant ordering app for a fictional Manchester restaurant. Concept work for portfolio, not a real client.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
